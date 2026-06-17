@@ -306,7 +306,7 @@ const GALLERY = [
   },
   {
     id: 5,
-    src: "https://images.unsplash.com/photo-1570081692697-b5f8a50e8ab6?w=800&q=80",
+    src: "Kucing.jpeg",
     title: "Kawah Bromo Aktif",
     location: "Taman Nasional Bromo Tengger Semeru · Jawa Timur",
     caption: "Bibir kawah Bromo pukul 03.47 pagi. Asap belerang terus mengepul, angin membawa bau yang khas. Di bawah langit penuh bintang, kawah ini terasa seperti portal ke dunia lain.",
