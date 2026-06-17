@@ -199,7 +199,7 @@ const GALLERY = [
   },
   {
     id: 5,
-    src: "Kucing2.jpeg",
+    src: "Kucing.jpeg",
     title: "Kawah Gn Gede yang masih aktif",
     location: "Taman Nasional Gunung Gede Pangarango · Jawa Barat",
     caption: "Bibir kawah Bromo pukul 06.47 pagi. Asap belerang terus mengepul, angin membawa bau yang khas. Di atas awan yang berbaris rapih, kawah ini terasa seperti portal ke dunia lain.",
