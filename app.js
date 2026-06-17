@@ -401,9 +401,9 @@ function showToast(msg, icon = 'fa-check-circle') {
 function animateHeroStats() {
   const stats = [
     { el: 'stat-posts', target: POSTS.length },
-    { el: 'stat-peaks', target: 47 },
-    { el: 'stat-countries', target: 18 },
-    { el: 'stat-km', target: 8200 }
+    { el: 'stat-peaks', target: 4 },
+    { el: 'stat-countries', target: 1 },
+    { el: 'stat-km', target: 20 }
   ];
   stats.forEach(({ el, target }) => {
     const element = document.getElementById(el);
