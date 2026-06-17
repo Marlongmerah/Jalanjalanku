@@ -200,9 +200,9 @@ const GALLERY = [
   {
     id: 5,
     src: "Kucing.jpeg",
-    title: "Kawah Bromo Aktif",
-    location: "Taman Nasional Bromo Tengger Semeru · Jawa Timur",
-    caption: "Bibir kawah Bromo pukul 03.47 pagi. Asap belerang terus mengepul, angin membawa bau yang khas. Di bawah langit penuh bintang, kawah ini terasa seperti portal ke dunia lain.",
+    title: "Kawah Gn Gede yang masih aktif",
+    location: "Taman Nasional Gunung Gede Pangarango · Jawa Barat",
+    caption: "Bibir kawah Bromo pukul 06.47 pagi. Asap belerang terus mengepul, angin membawa bau yang khas. Di atas awan yang berbaris rapih, kawah ini terasa seperti portal ke dunia lain.",
     tags: ["Bromo", "Kawah", "Vulkanik", "Malam"]
   },
   {
