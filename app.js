@@ -202,7 +202,7 @@ const GALLERY = [
     src: "Kawah.jpeg",
     title: "Kawah Gn Gede yang masih aktif",
     location: "Taman Nasional Gunung Gede Pangarango · Jawa Barat",
-    caption: "Bibir kawah Bromo pukul 06.47 pagi. Asap belerang terus mengepul, angin membawa bau yang khas. Di atas awan yang berbaris rapih, kawah ini terasa seperti portal ke dunia lain.",
+    caption: "Bibir kawah gn gede pukul 09.00 pagi. Asap belerang terus mengepul, angin membawa bau yang khas. Di atas awan yang berbaris rapih, kawah ini terasa seperti portal ke dunia lain.",
     tags: ["Bromo", "Kawah", "Vulkanik", "Malam"]
   },
   {
