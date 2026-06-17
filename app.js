@@ -1,5 +1,5 @@
 /* ================================================
-   NAKED TRAVELER — LOGIKA APLIKASI
+   Nekat TRAVELER — LOGIKA APLIKASI
    Blog Petualangan Gunung Pribadi oleh Mazari
    ================================================ */
 
@@ -610,8 +610,8 @@ function openReader(postId) {
       <h1 class="reader-title">${post.title}</h1>
       <div class="reader-meta">
         <div class="reader-author-meta">
-          <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&q=80" alt="Ariyansyah">
-          <span><strong>Ariyansyah</strong> · Naked Traveler</span>
+          <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&q=80" alt="Anaksemper">
+          <span><strong>Anaksemper</strong> · Nekat Traveler</span>
         </div>
         <span><i class="fa-regular fa-calendar"></i> ${post.date}</span>
         <span><i class="fa-regular fa-clock"></i> ${post.readTime} menit baca</span>
