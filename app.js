@@ -590,7 +590,7 @@ function observeReveal() {
 function initHeroParallax() {
   const bg = document.getElementById('hero-bg');
   window.addEventListener('scroll', () => {
-    bg.style.transform = `translateY(${window.scrollY * 0.50}px) scale(1.05)`;
+    bg.style.transform = `translateY(${window.scrollY * 0.70}px) scale(1.05)`;
   }, { passive: true });
 }
 
