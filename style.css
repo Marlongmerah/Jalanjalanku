@@ -22,12 +22,12 @@
   --border:   rgba(28,25,23,0.08);
 
   /* Brand — Mountain Theme */
-  --terra:        #3d7a5f;
-  --terra-dark:   #2d6a4f;
-  --terra-light:  #6aab8e;
-  --forest:       #1e3a2f;
+  --terra: #7FC8A9;
+  --terra-dark: #5FA88A;
+  --terra-light: #A8E6CF;
   --sand:         #d4e4db;
-  --ink:          #0f1a14;
+  --forest: #10231D;
+  --ink: #08120E;
 
   --shadow-sm:  0 1px 8px rgba(0,0,0,0.05);
   --shadow-md:  0 6px 24px rgba(0,0,0,0.08);
@@ -43,13 +43,13 @@
 }
 
 [data-theme="dark"] {
-  --bg:       #0a0f0d;
-  --bg-2:     #111a15;
-  --bg-3:     #1a2620;
+ --bg: #0B1215;
+  --bg-2: #101A1E;
+  --bg-3: #16252B;
   --surface:  #152019;
-  --text:     #e8f0ea;
-  --text-2:   #8fa898;
-  --text-3:   #4a6055;
+  --text: #F5F7F6;
+  --text-2: #B6C2BC;
+  --text-3: #7A8782;
   --border:   rgba(106,171,142,0.10);
   --shadow-sm:  0 1px 8px rgba(0,0,0,0.4);
   --shadow-md:  0 6px 24px rgba(0,0,0,0.5);
