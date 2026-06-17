@@ -60,39 +60,6 @@ const POSTS = [
     `
   },
   {
-    id: 2,
-    title: "Kemping di Atas Awan: Laporan Pendakian Rute Mont Blanc",
-    category: "Kemping",
-    date: "21 Mei 2026",
-    readTime: 9,
-    excerpt: "Tour du Mont Blanc adalah jalur jarak jauh paling terkenal di Eropa. Inilah yang tidak diceritakan panduan perjalanan tentang memasangnya secara solo di akhir Mei.",
-    image: "https://images.unsplash.com/photo-1551632811-561732d1e306?w=800&q=80",
-    tags: ["Alpen", "Eropa", "Kemping", "Jarak Jauh"],
-    featured: false,
-    views: 5210,
-    content: `
-      <p>Tour du Mont Blanc mengelilingi massif Mont Blanc melintasi tiga negara — Prancis, Italia, dan Swiss — mencakup sekitar 170 kilometer dan 10.000 meter akumulasi ketinggian. Kebanyakan orang melakukannya dalam 11 hari dengan akomodasi penginapan. Aku melakukannya dalam 9 hari dengan tenda. Inilah yang kupelajari.</p>
-
-      <figure style="margin:2rem 0;">
-        <img src="https://images.unsplash.com/photo-1487730116645-74489c95b41b?w=800&q=80" alt="Tenda di Pegunungan Alpen" class="inline-img">
-        <figcaption style="text-align:center; font-size:0.82rem; color:var(--text-3); margin-top:0.5rem; font-style:italic;"><i class="fa-solid fa-camera"></i> Bivak di zona yang diizinkan, sisi Italia TMB — pemandangan Grandes Jorasses langsung dari dalam tenda</figcaption>
-      </figure>
-
-      <h2>Kenapa Kemping Mengubah Segalanya</h2>
-      <p>Ketika kamu berkemah di TMB, kamu menghuni gunung yang berbeda dari yang dialami pendaki di penginapan berpenghangat. Kamu bangun sebelum kerumunan jalur tiba. Kamu menyaksikan cahaya alpen menyalakan Grandes Jorasses dari dalam tendamu, kopi di tangan. Kamu juga menghadapi tanah dingin, kondensasi, dan pertanyaan eksistensial apakah suara di luar itu binatang kecil atau sesuatu yang lebih besar.</p>
-
-      <blockquote>"Tidur di gunung tidak seperti tidur. Lebih seperti beristirahat di antara momen-momen kesadaran yang mendalam."</blockquote>
-
-      <figure style="margin:2rem 0;">
-        <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80" alt="Jalur TMB" class="inline-img">
-        <figcaption style="text-align:center; font-size:0.82rem; color:var(--text-3); margin-top:0.5rem; font-style:italic;"><i class="fa-solid fa-camera"></i> Jalur di atas col, sisi Prancis TMB — pandangan langsung ke massif Mont Blanc</figcaption>
-      </figure>
-
-      <h2>Tempat Kemping Terbaik</h2>
-      <p>Tidak semua tempat mengizinkan kemping bebas di TMB, terutama di Prancis. Namun ada zona bivak yang ditentukan dan beberapa tempat di mana mendirikan tenda secara diskret saat senja ditoleransi. Favoritku: col di atas Les Contamines dengan massif Mont Blanc langsung di depan, dan sisi Italia di bawah Rifugio Bonatti tempat matahari terbenam sungguh indah.</p>
-    `
-  },
-  {
     id: 3,
     title: "10 Perlengkapan yang Benar-Benar Penting (Setelah 340 Malam di Tenda)",
     category: "Perlengkapan",
