@@ -145,34 +145,6 @@ const POSTS = [
     `
   },
   {
-    id: 5,
-    title: "Cara Latihan untuk Pendakian Gunungmu yang Pertama (Secara Realistis)",
-    category: "Pendakian",
-    date: "30 Maret 2026",
-    readTime: 8,
-    excerpt: "Kebanyakan panduan latihan mengasumsikan kamu punya gym, waktu tak terbatas, dan lutut sempurna. Panduan ini tidak. Inilah cara sebenarnya mempersiapkan diri untuk ketinggian.",
-    image: "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&q=80",
-    tags: ["Latihan", "Pemula", "Pendakian", "Tips"],
-    featured: false,
-    views: 15600,
-    content: `
-      <p>Kamu tidak perlu lari maraton untuk mendaki gunung. Kamu memang perlu realistis tentang apa yang diminta gunung, dan jujur tentang posisimu saat ini. Berikut rencana 12 minggu berdasarkan apa yang benar-benar berhasil.</p>
-
-      <figure style="margin:2rem 0;">
-        <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80" alt="Latihan pendakian gunung" class="inline-img">
-        <figcaption style="text-align:center; font-size:0.82rem; color:var(--text-3); margin-top:0.5rem; font-style:italic;"><i class="fa-solid fa-camera"></i> Simulasi pendakian selama latihan — jalur bukit lokal dengan carrier penuh, Semarang</figcaption>
-      </figure>
-
-      <h2>Fondasi: Minggu 1-4</h2>
-      <p>Sebelum melakukan apapun, mulailah berjalan. Bukan jogging. Berjalan. Berjalan jauh dan lama dengan daypack yang secara bertahap semakin berat. Mulai dengan 1 jam, bangun hingga 3 jam. Lakukan ini empat kali seminggu. Ini membangun daya tahan spesifik yang diminta gunung — output aerobik yang berkelanjutan pada kecepatan stabil selama berjam-jam.</p>
-
-      <blockquote>"Gunung tidak peduli seberapa cepat kamu berlari. Ia peduli seberapa lama kamu bisa terus bergerak tanpa duduk."</blockquote>
-
-      <h2>Minggu 5-8: Tambahkan Elevasi</h2>
-      <p>Temukan bukit. Bukit manapun. Jalan naik. Jalan turun. Jalan naik lagi. Turunan sama pentingnya dengan tanjakan — kekuatan quadriceps untuk turun mencegah kerusakan lutut yang mengakhiri ekspedisi di hari ketiga. Jika kamu punya tangga, gunakan secara agresif.</p>
-    `
-  },
-  {
     id: 6,
     title: "Matahari Terbit di 4.000 m: Kenapa Aku Terus Kembali ke Semeru",
     category: "Puncak",
@@ -195,52 +167,6 @@ const POSTS = [
       <p>Jalur dari Ranu Pani ke puncak sepanjang 17 kilometer sekali jalan. Bagian pertama berkelok melalui hutan dataran tinggi hijau, melewati dua danau kawah — Ranu Kumbolo, tempat kebanyakan pendaki berkemah, memantulkan matahari terbenam yang sempurna di airnya yang dingin dan tenang.</p>
 
       <blockquote>"Beberapa gunung kamu daki sekali dan mereka sudah selesai denganmu. Yang lain membiarkan pintu tetap terbuka. Semeru terus meninggalkan milikku sedikit terbuka."</blockquote>
-    `
-  },
-  {
-    id: 7,
-    title: "Mendaki Malam: Panduan Lengkap Jalur Sebelum Fajar",
-    category: "Pendakian",
-    date: "28 Februari 2026",
-    readTime: 7,
-    excerpt: "Dunia berubah total antara tengah malam dan matahari terbit. Mendaki di malam hari tidak berbahaya jika kamu tahu apa yang dilakukan. Inilah yang perlu kamu tahu.",
-    image: "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800&q=80",
-    tags: ["Pendakian Malam", "Tips", "Keamanan", "Bintang"],
-    featured: false,
-    views: 9800,
-    content: `
-      <p>Kebanyakan kecelakaan jalur terjadi antara pukul 12 siang dan 4 sore — ketika pendaki lelah, dehidrasi, dan bergegas untuk selesai. Mendaki malam menghilangkan sebagian besar variabel ini. Kamu segar. Udaranya dingin. Jalurnya kosong. Dan jika kamu berada di tempat yang tepat pada waktu yang tepat, bintang-bintangnya sungguh tak terlukiskan.</p>
-
-      <figure style="margin:2rem 0;">
-        <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&q=80" alt="Jalur malam di gunung" class="inline-img">
-        <figcaption style="text-align:center; font-size:0.82rem; color:var(--text-3); margin-top:0.5rem; font-style:italic;"><i class="fa-solid fa-camera"></i> Jalur malam menuju pos 3 Semeru — Bima Sakti terlihat jelas di atas kepala</figcaption>
-      </figure>
-
-      <blockquote>"Dalam kegelapan, jalur menjadi tempat yang berbeda. Suara menguat, jarak menjadi kabur, dan langit menjadi hal terpenting di duniamu."</blockquote>
-    `
-  },
-  {
-    id: 8,
-    title: "Bromo Pukul 3 Pagi: Lanskap Paling Dramatis yang Pernah Kupijak",
-    category: "Pendakian",
-    date: "10 Februari 2026",
-    readTime: 5,
-    excerpt: "Gunung Bromo adalah gunung berapi paling banyak dikunjungi di Indonesia. Pukul 3 pagi, dengan Bima Sakti di atas dan kawah berasap di bawah, rasanya seperti tempat paling sepi di bumi.",
-    image: "https://images.unsplash.com/photo-1570081692697-b5f8a50e8ab6?w=800&q=80",
-    tags: ["Indonesia", "Bromo", "Gunung Berapi", "Malam"],
-    featured: false,
-    views: 4450,
-    content: `
-      <p>Jeep-jeep tiba di titik pandang Bromo pukul 4 pagi, sorot lampu depannya membelah Lautan Pasir, wisatawan terbungkus jaket sewaan menggenggam termos. Aku tiba pukul 3. Perbedaan satu jam itu adalah segalanya.</p>
-
-      <figure style="margin:2rem 0;">
-        <img src="https://images.unsplash.com/photo-1570081692697-b5f8a50e8ab6?w=800&q=80" alt="Kawah Bromo dari dekat" class="inline-img">
-        <figcaption style="text-align:center; font-size:0.82rem; color:var(--text-3); margin-top:0.5rem; font-style:italic;"><i class="fa-solid fa-camera"></i> Kawah Bromo aktif dari bibir kawah — asap belerang terus mengepul, udara menusuk tulang</figcaption>
-      </figure>
-
-      <blockquote>"Bromo pukul 3 pagi tidak terasa seperti destinasi wisata. Rasanya seperti permulaan dunia."</blockquote>
-
-      <p>Saat jeep-jeep tiba dengan muatan pemburu matahari terbit mereka, aku sudah turun. Aku mendapat gunung berapi untuk diriku sendiri selama 47 menit. Sepadan dengan setiap menit dingin yang hilang dari waktu tidur.</p>
     `
   },
   {
